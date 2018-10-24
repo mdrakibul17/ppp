@@ -1,0 +1,10 @@
+uri ==== 
+[ (email: hstumdrakibul@gmail.com)
+ (pass: 0b028f31 ]
+
+
+
+github=====
+[(email:hstumdrakibul@gmail.com)
+(user name: mdrakibul17 )
+(pass  :rakibul1244)]
